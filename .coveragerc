@@ -1,0 +1,6 @@
+[run]
+source = mi_reposteria
+omit = 
+    tests/*
+    autoapp.py
+
